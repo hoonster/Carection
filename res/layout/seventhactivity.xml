@@ -1,0 +1,2257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView02"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <HorizontalScrollView
+        android:id="@+id/scroller"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/square1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/linear1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/button1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/button2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/button3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/button4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/button5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/button6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/button7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/button8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/sbutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/sbutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sbutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sbutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sbutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sbutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sbutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sbutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/tbutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/tbutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/tbutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/tbutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/tbutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/tbutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/tbutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/tbutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/fobutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/fobutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/fobutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/fobutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/fobutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/fobutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/fobutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/fobutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/fibutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/fibutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/fibutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/fibutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/fibutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/fibutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/fibutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/fibutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/sibutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/sibutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sibutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sibutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sibutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sibutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sibutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sibutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/sebutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/sebutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sebutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sebutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sebutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sebutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sebutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/sebutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/ebutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/ebutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/ebutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/ebutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/ebutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/ebutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/ebutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/ebutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/square2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/s2linear1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s2button1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s2button2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2button3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2button4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2button5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2button6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2button7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2button8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s2linear2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s2sbutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s2sbutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sbutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sbutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sbutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sbutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sbutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sbutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s2linear3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s2tbutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s2tbutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2tbutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2tbutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2tbutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2tbutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2tbutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2tbutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s2linear4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s2fobutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s2fobutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2fobutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2fobutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2fobutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2fobutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2fobutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2fobutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s2linear5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s2fibutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s2fibutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2fibutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2fibutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2fibutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2fibutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2fibutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2fibutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s2linear6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s2sibutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s2sibutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sibutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sibutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sibutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sibutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sibutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sibutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s2linear7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s2sebutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s2sebutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sebutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sebutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sebutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sebutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sebutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2sebutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s2linear8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s2ebutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s2ebutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2ebutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2ebutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2ebutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2ebutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2ebutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s2ebutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/square3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/s3linear1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s3button1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s3button2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3button3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3button4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3button5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3button6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3button7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3button8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s3linear2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s3sbutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s3sbutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sbutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sbutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sbutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sbutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sbutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sbutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s3linear3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s3tbutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s3tbutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3tbutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3tbutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3tbutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3tbutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3tbutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3tbutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s3linear4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s3fobutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s3fobutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3fobutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3fobutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3fobutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3fobutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3fobutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3fobutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s3linear5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s3fibutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s3fibutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3fibutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3fibutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3fibutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3fibutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3fibutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3fibutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s3linear6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s3sibutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s3sibutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sibutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sibutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sibutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sibutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sibutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sibutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s3linear7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s3sebutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s3sebutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sebutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sebutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sebutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sebutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sebutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3sebutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s3linear8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s3ebutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s3ebutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3ebutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3ebutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3ebutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3ebutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3ebutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s3ebutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/square4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/s4linear1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s4button1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s4button2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4button3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4button4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4button5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4button6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4button7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4button8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s4linear2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s4sbutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s4sbutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sbutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sbutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sbutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sbutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sbutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sbutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s4linear3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s4tbutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s4tbutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4tbutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4tbutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4tbutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4tbutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4tbutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4tbutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s4linear4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s4fobutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s4fobutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4fobutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4fobutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4fobutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4fobutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4fobutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4fobutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s4linear5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s4fibutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s4fibutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4fibutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4fibutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4fibutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4fibutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4fibutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4fibutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s4linear6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s4sibutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s4sibutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sibutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sibutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sibutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sibutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sibutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sibutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s4linear7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s4sebutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s4sebutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sebutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sebutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sebutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sebutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sebutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4sebutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s4linear8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s4ebutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s4ebutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4ebutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4ebutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4ebutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4ebutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4ebutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s4ebutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/square5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/s5linear1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s5button1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s5button2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5button3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5button4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5button5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5button6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5button7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5button8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s5linear2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s5sbutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s5sbutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sbutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sbutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sbutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sbutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sbutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sbutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s5linear3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s5tbutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s5tbutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5tbutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5tbutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5tbutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5tbutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5tbutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5tbutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s5linear4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s5fobutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s5fobutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5fobutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5fobutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5fobutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5fobutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5fobutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5fobutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s5linear5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s5fibutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s5fibutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5fibutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5fibutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5fibutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5fibutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5fibutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5fibutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s5linear6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s5sibutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s5sibutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sibutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sibutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sibutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sibutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sibutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sibutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s5linear7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s5sebutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s5sebutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sebutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sebutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sebutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sebutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sebutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5sebutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/s5linear8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="1dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/s5ebutton1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp" />
+
+                    <Button
+                        android:id="@+id/s5ebutton2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5ebutton3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5ebutton4"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5ebutton5"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5ebutton6"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5ebutton7"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+
+                    <Button
+                        android:id="@+id/s5ebutton8"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="1dp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</ScrollView>
